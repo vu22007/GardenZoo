@@ -4,7 +4,7 @@
 Development progress of my personal project, Garden Zoo made in Unity with C#.
 
 ## Demo
-You can try out an early version of the game by downloading the zip file named demo 
+You can try out an early version of the game by downloading the zip file named demo (Windows only right now sorry!)
 
 ## Planning
 All planning is done with a Kanban board (Below is a screenshot of an intance of it)
