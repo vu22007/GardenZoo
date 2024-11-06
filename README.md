@@ -1,7 +1,7 @@
 # GardenZoo
 
 ## Description
-Development progress of my personal project, Garden Zoo made in Unity with C#.
+Development progress of my personal project, Garden Zoo made in Unity with C#. Heavily inspired by the viva pinata games made by Rare.
 
 ## Demo
 You can try out an early version of the game by downloading the zip file named demo (Windows only right now sorry!)
@@ -24,17 +24,18 @@ All planning is done with a Kanban board (Below is a screenshot of an intance of
 ### Seed Inventory
 ![image](https://github.com/user-attachments/assets/45dbca4a-1c79-4f5c-af71-2541cb0c52ec)
 
-## Class Structure
-
 ## Roadmap
 - Sounds and music
 - My own personally made pixel animals using Aseprite on Steam
 - Watering
 - New garden design (looks very blocky as it is right now!)
+- Lots, lots more!!
 
 ## Credits
 - Found the background for the main menu on [this reddit post](https://www.reddit.com/r/PixelArt/comments/lvb7rh/flower_garden/?rdt=57450)
 - Animals found on [this itch.io page](https://lyaseek.itch.io/miniffanimals)
+- Font found on the unity asset store (Thaleah)
+  
 
 
 
